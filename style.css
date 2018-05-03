@@ -110,10 +110,6 @@ html, body{
     transition: 0.5s ease;
 }
 
-.choose{
-    padding: 0 0 10em 0; 
-}
-
 .content {
     font-size: 16px;
     color: black;
@@ -161,4 +157,18 @@ html, body{
 
 .carousel-control-next-icon {
     background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%232c8d8d' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E")  !important;
+}
+
+/* about us */
+.information{
+    height: 80%;
+    width: 40%;
+    float: left;
+    margin :5%;
+}
+.logo-about{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 155px;
 }
